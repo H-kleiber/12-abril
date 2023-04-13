@@ -1,0 +1,15 @@
+.menu__contenedor {
+  display: flex;
+  justify-content: center;
+}
+.menu__contenedor__part {
+  display: inline-block;
+  background-color: black;
+  color: aqua;
+  width: 120px;
+  height: 50px;
+  text-align: center;
+}
+.menu__contenedor__part--contact {
+  background-color: bisque;
+}/*# sourceMappingURL=style.css.map */
